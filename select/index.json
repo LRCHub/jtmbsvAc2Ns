@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "katharsis",
+  "base_artist": "TK from Ling tosite sigure",
+  "createdAt": "2026-03-05T22:02:57.234865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Katharsis",
+      "artist": "Equilibrium",
+      "has_synced": true,
+      "path": "select/01_Katharsis_Equilibrium.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Katharsis",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/02_Katharsis_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "katharsis",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/03_katharsis_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Katharsis",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/04_Katharsis_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "katharsis",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/05_katharsis_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Katharsis",
+      "artist": "Harms & Kapelle",
+      "has_synced": true,
+      "path": "select/06_Katharsis_Harms_&_Kapelle.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Katharsis",
+      "artist": "Nachtmahr",
+      "has_synced": true,
+      "path": "select/07_Katharsis_Nachtmahr.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Katharsis (Remastered)",
+      "artist": "Nachtmahr",
+      "has_synced": false,
+      "path": "select/08_Katharsis_(Remastered)_Nachtmahr.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "katharsis (TV edit)",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/09_katharsis_(TV_edit)_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "katharsis (sainou mix)",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/10_katharsis_(sainou_mix)_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "katharsis",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/11_katharsis_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "katharsis",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/12_katharsis_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "katharsis (sainou mix)",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/13_katharsis_(sainou_mix)_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Katharsis (Mastered at Abbey Road Studios Hi-Res Version)",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/14_Katharsis_(Mastered_at_Abbey_Road_Studios_Hi-Res_Version)_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Katharsis",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/15_Katharsis_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "katharsis",
+      "artist": "TK from 凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_01_katharsis_TK_from_凛として時雨.txt"
+    }
+  ]
+}
